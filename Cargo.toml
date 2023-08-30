@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    # Binaries
+    "bin/test_tree",
+    # Libraries
+    "lib/crypto",
+    "lib/basic_types",
+]
