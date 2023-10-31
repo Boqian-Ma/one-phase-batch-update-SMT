@@ -1,6 +1,7 @@
 # One-phase Batch Update on Sparse Merkle Tree for Rollups
 
-This repository contains the implementation of the paper "One-phase Batch Update on Sparse Merkle Tree for Rollups".
+This repository contains the implementation of the paper "One-phase Batch Update on Sparse Merkle Tree for Rollups". https://arxiv.org/abs/2310.13328
+
 
 **Acknowledgement**: Thanks to the zkSync team from Matter Labs for the Sparse Merkle tree implementation of which this repository is based on. Refer to https://github.com/matter-labs/zksync for the original code base.
 
